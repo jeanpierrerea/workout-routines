@@ -1,3 +1,3 @@
 # Workout Routines
 
-Personal landing to track workout routines. 
+Personal page to track workout routines. Inspired routines by fictional characters. 
