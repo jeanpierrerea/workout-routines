@@ -1,6 +1,30 @@
-* {
-    background-color: black;
-    color: white;
-    font-family: 'Roboto', sans-serif;
+/* chat gpt to create css stylings */
+/* Reset some default styles to ensure consistency across browsers */
+body, h1, h2, h3, p {
+    margin: 0;
+    padding: 0;
 }
+
+/* Apply the dark background with navy undertones */
+body {
+    background-color: #0c0e1a; /* Dark background color */
+    color: #f0f0f0; /* Off-white font color */
+    font-family: Arial, sans-serif; /* Optional: Choose your preferred font */
+}
+
+/* Style for headings */
+h1, h2, h3 {
+    color: #ffffff; /* White font color for headings */
+}
+
+/* Style for links */
+a {
+    color: #95c6e4; /* Light blue color for links */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline; /* Underline links on hover */
+}
+
 
