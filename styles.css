@@ -3,48 +3,50 @@
 body, h1, h2, h3, p {
     margin: 0;
     padding: 0;
-  }
-  
-  /* Apply the brutalist style */
-  body {
+}
+
+/* Apply the brutalist style */
+body {
     background-color: #2e2c2a; /* Dark gray background color */
     color: #f0e3c3; /* Off-white font color */
     font-family: Arial, sans-serif;
-  }
-  
-  /* Style for headings */
-  h1, h2, h3 {
+}
+
+/* Style for headings */
+h1, h2, h3 {
     color: #f4b301; /* Yellow font color for headings */
     font-weight: normal; /* Reset font weight for a raw look */
-  }
-  
-  /* Style for links */
-  a {
+}
+
+/* Style for links */
+a {
     color: #f4b301; /* Yellow color for links */
     text-decoration: underline;
-  }
-  
-  a:hover {
+}
+
+a:hover {
     text-decoration: none;
-  }
-  
-  /* Apply brutalist border and padding to boxes */
-  .box {
+}
+
+/* Apply brutalist border and padding to boxes */
+.box {
     border: 10px solid #f4b301;
     padding: 20px;
-  }
-  
-  /* Create brutalist button styles */
-  .button {
+}
+
+/* Create brutalist button styles */
+/* Apply brutalist button styles */
+.button {
     background-color: #2e2c2a;
     border: 2px solid #f4b301;
     color: #f4b301;
     padding: 10px 20px;
     text-transform: uppercase;
     transition: background-color 0.3s, color 0.3s;
-  }
-  
-  .button:hover {
+    margin-top: 20px; /* Add margin from the top */
+}
+
+.button:hover {
     background-color: #f4b301;
     color: #2e2c2a;
-  }
+}
